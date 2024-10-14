@@ -26,7 +26,8 @@ The second phase of the project focuses on building the **ML Pipelines** for reg
 - **Feature Transformation**: Ensuring all features are in a suitable format for model input.
 - **Model Training**: Applying regression algorithms to train models using the transformed features.
 - **Model Evaluation**: Assessing the performance of the regression models.
-
+  
 This phase is implemented in the `regression_analysis.ipynb` file, where the machine learning pipeline is constructed and evaluated.
 Additionally, you can refer to `Spark_Cheat_Sheet.docx` to learn more about the commands.
+
 ---
